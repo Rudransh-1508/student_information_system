@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+*.env
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Database file (Option 1: If you commit it - REMOVE this line)
+# students.db # (Option 2: If you DON'T commit it - KEEP this line)
+
+# Other
+.DS_Store
