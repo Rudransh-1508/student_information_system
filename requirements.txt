@@ -3,3 +3,4 @@ requests
 python-jose[cryptography]
 pandas
 plotly
+pydantic
